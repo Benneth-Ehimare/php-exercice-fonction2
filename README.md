@@ -20,7 +20,7 @@ Le passage par référence c'est cela : http://php.net/manual/fr/language.refere
 * Construire le tableau associatif php, correspondants aux lignes et aux colonnes de l'image.
 
 * Vous devez créez une fonction qui prend deux arguments;
- -le premier argument de type char
+ -le premier argument de type string
  -le second de type int (coordonnées horizontales et verticales du tableau).
 
 * La fonction doit retourner trois valeurs différentes:
